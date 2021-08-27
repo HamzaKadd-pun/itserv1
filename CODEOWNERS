@@ -1,0 +1,2 @@
+# This will match all files for which the file name ends in `.txt`
+*.txt @mjcesario @pharlan

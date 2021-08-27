@@ -1,0 +1,3 @@
+This is a comment file to demonstrate using GitLab's discussions, suggestions and code owner capabilities.
+
+This is the initial comment.
